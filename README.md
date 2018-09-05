@@ -1,3 +1,5 @@
+**This is a fork of flazz/vim-colorschemes but only contains the gruvbox theme**
+
 **me:** Hi everyone, my name is Franco and I'm addicted to colorschemes
 
 **everyone else:** *Hi Franco*
